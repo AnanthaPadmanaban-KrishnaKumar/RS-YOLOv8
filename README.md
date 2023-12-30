@@ -6,7 +6,9 @@
 </p>
 
 ## Introduction
-This project delivers an innovative, real-time solution for road segmentation within Autonomous Driving Assistant Systems (ADAS). It extends the capabilities of the RS-ADAS project by integrating the advanced object detection of YOLOv8 with an automated annotation process, addressing real-time processing challenges in ADAS applications.
+
+This project delivers an innovative, real-time solution for road segmentation within Autonomous Driving Assistant Systems (ADAS). It extends the capabilities of the [RS-ADAS project](https://github.com/AnanthaPadmanaban-KrishnaKumar/RS-SAM) by integrating the advanced object detection of YOLOv8 with an automated annotation process, addressing real-time processing challenges in ADAS applications.
+
 
 ## Project Objective
 The primary goal is to develop a road segmentation model that operates efficiently in real-time environments. This is achieved by combining the object detection strengths of YOLOv8 with an automated annotation pipeline, leading to a robust and responsive ADAS component.
