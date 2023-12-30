@@ -1,4 +1,4 @@
-# RS-YOLOv8
+# RS-YOLOv8 - Road Segmentation with YOLOv8
 
 <p float="left">
   <img src="https://github.com/AnanthaPadmanaban-KrishnaKumar/RS-YOLOv8/blob/main/assets/input_video.gif" width="49%" style="margin-right: 2%;" />
