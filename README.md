@@ -25,6 +25,16 @@ The primary goal is to develop a road segmentation model that operates efficient
 - **Segmentation Model Training**: Using the annotated data to train the YOLOv8 segmentation model specifically for real-time application.
 Deployment for Real-Time Inference: Implementing the trained model in ADAS for on-the-fly road segmentation.
 
+<p float="left">
+  <img src="https://github.com/AnanthaPadmanaban-KrishnaKumar/RS-YOLOv8/blob/main/assets/input_video.gif" width="49%" style="margin-right: 2%;" />
+  <img src="https://github.com/AnanthaPadmanaban-KrishnaKumar/RS-YOLOv8/blob/main/assets/output_video_box.gif" width="49%" />
+</p>
+
+<p float="left">
+  <img src="https://github.com/AnanthaPadmanaban-KrishnaKumar/RS-YOLOv8/blob/main/assets/output_video_box.gif" width="49%" style="margin-right: 2%;" />
+  <img src="https://github.com/AnanthaPadmanaban-KrishnaKumar/RS-YOLOv8/blob/main/assets/output_video.gif" width="49%" />
+</p>
+
 ## Major Achievements
 - **Reduction in Inference Time**: One of the most noteworthy accomplishments of this project is the substantial reduction in inference time. By leveraging the efficiency of YOLOv8, the project successfully minimizes the time taken to process and segment road scenes. This improvement is crucial for real-time applications where decisions must be made swiftly and accurately.
 - **Enhanced Accuracy and Precision**: The use of the YOLOv8 for the segmentation, with its detailed annotations, has enabled the model to segment roads with greater precision and accuracy. This enhancement is particularly beneficial in complex urban environments where distinguishing various elements accurately is vital for safe navigation.
