@@ -17,8 +17,8 @@ The primary goal is to develop a road segmentation model that operates efficient
 - **Ultralytics YOLOv8 Segmentation Model**: A model trained on the annotated data for accurate, real-time road segmentation.
 
 ## Detailed Workflow
-
 <img src="https://github.com/AnanthaPadmanaban-KrishnaKumar/RS-YOLOv8/blob/main/assets/yolo-segment.png" weight="20%">
+
 - **Image Collection**: Gathering a diverse set of environmental images for model training.
 - **Road Detection with YOLOv8**: Applying YOLOv8 for the initial detection of road areas in these images.
 - **Automated Annotation Process**: Utilizing autoannotate.py to generate accurate annotations for the detected road segments.
